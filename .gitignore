@@ -1,0 +1,7 @@
+images/
+XY_dev/
+XY_train/
+trigger_word.zip
+__pycache__/
+models/*
+output*
